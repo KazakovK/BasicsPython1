@@ -1,4 +1,4 @@
-user_number = input('Введите любое целое число: ')
+user_number = input('Введите целое положительное число: ')
 
 n = int(user_number)
 nn = int(user_number + user_number)
